@@ -19,3 +19,4 @@ https://www.youtube.com/watch?v=DYYxLSrJdW8&list=RDCMUC8wZnXYK_CGKlBcZp-GxYPA&in
 
 Dependecies:
 pip install fabric
+pip install python-dotenv
